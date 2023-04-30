@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		215A4465DFA2F3EEE86AC3D4 /* Pods_PraceticeTabBar_PraceticeTabBarUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E9B92CBB1319AB519DDA229 /* Pods_PraceticeTabBar_PraceticeTabBarUITests.framework */; };
 		A267B85729FD162000B6FC1D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B85629FD162000B6FC1D /* AppDelegate.swift */; };
 		A267B85929FD162000B6FC1D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B85829FD162000B6FC1D /* SceneDelegate.swift */; };
 		A267B85B29FD162000B6FC1D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B85A29FD162000B6FC1D /* ViewController.swift */; };
@@ -16,6 +17,20 @@
 		A267B86E29FD162100B6FC1D /* PraceticeTabBarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B86D29FD162100B6FC1D /* PraceticeTabBarTests.swift */; };
 		A267B87829FD162100B6FC1D /* PraceticeTabBarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B87729FD162100B6FC1D /* PraceticeTabBarUITests.swift */; };
 		A267B87A29FD162100B6FC1D /* PraceticeTabBarUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B87929FD162100B6FC1D /* PraceticeTabBarUITestsLaunchTests.swift */; };
+		A267B88829FD181E00B6FC1D /* Test1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B88729FD181E00B6FC1D /* Test1ViewController.swift */; };
+		A267B88929FD181E00B6FC1D /* Test1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B88729FD181E00B6FC1D /* Test1ViewController.swift */; };
+		A267B88A29FD181E00B6FC1D /* Test1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B88729FD181E00B6FC1D /* Test1ViewController.swift */; };
+		A267B88C29FD182500B6FC1D /* Test2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B88B29FD182500B6FC1D /* Test2ViewController.swift */; };
+		A267B88D29FD182500B6FC1D /* Test2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B88B29FD182500B6FC1D /* Test2ViewController.swift */; };
+		A267B88E29FD182500B6FC1D /* Test2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B88B29FD182500B6FC1D /* Test2ViewController.swift */; };
+		A267B89029FD182900B6FC1D /* Test3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B88F29FD182900B6FC1D /* Test3ViewController.swift */; };
+		A267B89129FD182900B6FC1D /* Test3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B88F29FD182900B6FC1D /* Test3ViewController.swift */; };
+		A267B89229FD182900B6FC1D /* Test3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B88F29FD182900B6FC1D /* Test3ViewController.swift */; };
+		A267B89429FD182D00B6FC1D /* Test4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B89329FD182D00B6FC1D /* Test4ViewController.swift */; };
+		A267B89529FD182D00B6FC1D /* Test4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B89329FD182D00B6FC1D /* Test4ViewController.swift */; };
+		A267B89629FD182D00B6FC1D /* Test4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A267B89329FD182D00B6FC1D /* Test4ViewController.swift */; };
+		D088BEB8499BDAE12648ECE3 /* Pods_PraceticeTabBar.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 801DD2AF0C0B62950A02C264 /* Pods_PraceticeTabBar.framework */; };
+		D47F9672DCCAF6C1ED1AE2CC /* Pods_PraceticeTabBarTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04AC3E11E4CBC2C13CC87C25 /* Pods_PraceticeTabBarTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +51,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		04AC3E11E4CBC2C13CC87C25 /* Pods_PraceticeTabBarTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PraceticeTabBarTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0C29F0684D5AD5212EC4EA1F /* Pods-PraceticeTabBarTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PraceticeTabBarTests.release.xcconfig"; path = "Target Support Files/Pods-PraceticeTabBarTests/Pods-PraceticeTabBarTests.release.xcconfig"; sourceTree = "<group>"; };
+		0E7EC0B84E3310EB27475C88 /* Pods-PraceticeTabBar-PraceticeTabBarUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PraceticeTabBar-PraceticeTabBarUITests.release.xcconfig"; path = "Target Support Files/Pods-PraceticeTabBar-PraceticeTabBarUITests/Pods-PraceticeTabBar-PraceticeTabBarUITests.release.xcconfig"; sourceTree = "<group>"; };
+		0E9B92CBB1319AB519DDA229 /* Pods_PraceticeTabBar_PraceticeTabBarUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PraceticeTabBar_PraceticeTabBarUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BCD98E35F9DCE09479F5FAB /* Pods-PraceticeTabBar.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PraceticeTabBar.release.xcconfig"; path = "Target Support Files/Pods-PraceticeTabBar/Pods-PraceticeTabBar.release.xcconfig"; sourceTree = "<group>"; };
+		728A586BFC4092A1C2D1B9E1 /* Pods-PraceticeTabBar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PraceticeTabBar.debug.xcconfig"; path = "Target Support Files/Pods-PraceticeTabBar/Pods-PraceticeTabBar.debug.xcconfig"; sourceTree = "<group>"; };
+		801DD2AF0C0B62950A02C264 /* Pods_PraceticeTabBar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PraceticeTabBar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93653C2F9A401E89EAD346A8 /* Pods-PraceticeTabBar-PraceticeTabBarUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PraceticeTabBar-PraceticeTabBarUITests.debug.xcconfig"; path = "Target Support Files/Pods-PraceticeTabBar-PraceticeTabBarUITests/Pods-PraceticeTabBar-PraceticeTabBarUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		A267B85329FD162000B6FC1D /* PraceticeTabBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PraceticeTabBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A267B85629FD162000B6FC1D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A267B85829FD162000B6FC1D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +72,11 @@
 		A267B87329FD162100B6FC1D /* PraceticeTabBarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PraceticeTabBarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A267B87729FD162100B6FC1D /* PraceticeTabBarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PraceticeTabBarUITests.swift; sourceTree = "<group>"; };
 		A267B87929FD162100B6FC1D /* PraceticeTabBarUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PraceticeTabBarUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A267B88729FD181E00B6FC1D /* Test1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test1ViewController.swift; sourceTree = "<group>"; };
+		A267B88B29FD182500B6FC1D /* Test2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test2ViewController.swift; sourceTree = "<group>"; };
+		A267B88F29FD182900B6FC1D /* Test3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test3ViewController.swift; sourceTree = "<group>"; };
+		A267B89329FD182D00B6FC1D /* Test4ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test4ViewController.swift; sourceTree = "<group>"; };
+		FE5D49E3ABB2221703E34A4A /* Pods-PraceticeTabBarTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PraceticeTabBarTests.debug.xcconfig"; path = "Target Support Files/Pods-PraceticeTabBarTests/Pods-PraceticeTabBarTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +84,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D088BEB8499BDAE12648ECE3 /* Pods_PraceticeTabBar.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +92,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D47F9672DCCAF6C1ED1AE2CC /* Pods_PraceticeTabBarTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,12 +100,23 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				215A4465DFA2F3EEE86AC3D4 /* Pods_PraceticeTabBar_PraceticeTabBarUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		709B57F7A168AAEDB141478A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				801DD2AF0C0B62950A02C264 /* Pods_PraceticeTabBar.framework */,
+				0E9B92CBB1319AB519DDA229 /* Pods_PraceticeTabBar_PraceticeTabBarUITests.framework */,
+				04AC3E11E4CBC2C13CC87C25 /* Pods_PraceticeTabBarTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		A267B84A29FD162000B6FC1D = {
 			isa = PBXGroup;
 			children = (
@@ -83,6 +124,8 @@
 				A267B86C29FD162100B6FC1D /* PraceticeTabBarTests */,
 				A267B87629FD162100B6FC1D /* PraceticeTabBarUITests */,
 				A267B85429FD162000B6FC1D /* Products */,
+				E9DF0D0BD0EAC689702E616D /* Pods */,
+				709B57F7A168AAEDB141478A /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,6 +142,7 @@
 		A267B85529FD162000B6FC1D /* PraceticeTabBar */ = {
 			isa = PBXGroup;
 			children = (
+				A267B88629FD180800B6FC1D /* TabbarTest */,
 				A267B85629FD162000B6FC1D /* AppDelegate.swift */,
 				A267B85829FD162000B6FC1D /* SceneDelegate.swift */,
 				A267B85A29FD162000B6FC1D /* ViewController.swift */,
@@ -127,6 +171,30 @@
 			path = PraceticeTabBarUITests;
 			sourceTree = "<group>";
 		};
+		A267B88629FD180800B6FC1D /* TabbarTest */ = {
+			isa = PBXGroup;
+			children = (
+				A267B88729FD181E00B6FC1D /* Test1ViewController.swift */,
+				A267B88B29FD182500B6FC1D /* Test2ViewController.swift */,
+				A267B88F29FD182900B6FC1D /* Test3ViewController.swift */,
+				A267B89329FD182D00B6FC1D /* Test4ViewController.swift */,
+			);
+			path = TabbarTest;
+			sourceTree = "<group>";
+		};
+		E9DF0D0BD0EAC689702E616D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				728A586BFC4092A1C2D1B9E1 /* Pods-PraceticeTabBar.debug.xcconfig */,
+				6BCD98E35F9DCE09479F5FAB /* Pods-PraceticeTabBar.release.xcconfig */,
+				93653C2F9A401E89EAD346A8 /* Pods-PraceticeTabBar-PraceticeTabBarUITests.debug.xcconfig */,
+				0E7EC0B84E3310EB27475C88 /* Pods-PraceticeTabBar-PraceticeTabBarUITests.release.xcconfig */,
+				FE5D49E3ABB2221703E34A4A /* Pods-PraceticeTabBarTests.debug.xcconfig */,
+				0C29F0684D5AD5212EC4EA1F /* Pods-PraceticeTabBarTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -134,9 +202,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A267B87D29FD162100B6FC1D /* Build configuration list for PBXNativeTarget "PraceticeTabBar" */;
 			buildPhases = (
+				E1EB28AAEE58065A17607537 /* [CP] Check Pods Manifest.lock */,
 				A267B84F29FD162000B6FC1D /* Sources */,
 				A267B85029FD162000B6FC1D /* Frameworks */,
 				A267B85129FD162000B6FC1D /* Resources */,
+				879D7AE62E8B2F30614BF02A /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -151,6 +221,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A267B88029FD162100B6FC1D /* Build configuration list for PBXNativeTarget "PraceticeTabBarTests" */;
 			buildPhases = (
+				DC3C4B7DD18F14665A934E0D /* [CP] Check Pods Manifest.lock */,
 				A267B86529FD162100B6FC1D /* Sources */,
 				A267B86629FD162100B6FC1D /* Frameworks */,
 				A267B86729FD162100B6FC1D /* Resources */,
@@ -169,9 +240,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A267B88329FD162100B6FC1D /* Build configuration list for PBXNativeTarget "PraceticeTabBarUITests" */;
 			buildPhases = (
+				BEBB3943957B2D3BE5B4F718 /* [CP] Check Pods Manifest.lock */,
 				A267B86F29FD162100B6FC1D /* Sources */,
 				A267B87029FD162100B6FC1D /* Frameworks */,
 				A267B87129FD162100B6FC1D /* Resources */,
+				56A8F6BA5CD4D00278890493 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -253,13 +326,120 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		56A8F6BA5CD4D00278890493 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-PraceticeTabBar-PraceticeTabBarUITests/Pods-PraceticeTabBar-PraceticeTabBarUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-PraceticeTabBar-PraceticeTabBarUITests/Pods-PraceticeTabBar-PraceticeTabBarUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-PraceticeTabBar-PraceticeTabBarUITests/Pods-PraceticeTabBar-PraceticeTabBarUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		879D7AE62E8B2F30614BF02A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-PraceticeTabBar/Pods-PraceticeTabBar-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-PraceticeTabBar/Pods-PraceticeTabBar-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-PraceticeTabBar/Pods-PraceticeTabBar-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BEBB3943957B2D3BE5B4F718 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-PraceticeTabBar-PraceticeTabBarUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DC3C4B7DD18F14665A934E0D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-PraceticeTabBarTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E1EB28AAEE58065A17607537 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-PraceticeTabBar-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		A267B84F29FD162000B6FC1D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A267B88C29FD182500B6FC1D /* Test2ViewController.swift in Sources */,
+				A267B88829FD181E00B6FC1D /* Test1ViewController.swift in Sources */,
 				A267B85B29FD162000B6FC1D /* ViewController.swift in Sources */,
+				A267B89429FD182D00B6FC1D /* Test4ViewController.swift in Sources */,
 				A267B85729FD162000B6FC1D /* AppDelegate.swift in Sources */,
+				A267B89029FD182900B6FC1D /* Test3ViewController.swift in Sources */,
 				A267B85929FD162000B6FC1D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -268,6 +448,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A267B88929FD181E00B6FC1D /* Test1ViewController.swift in Sources */,
+				A267B88D29FD182500B6FC1D /* Test2ViewController.swift in Sources */,
+				A267B89529FD182D00B6FC1D /* Test4ViewController.swift in Sources */,
+				A267B89129FD182900B6FC1D /* Test3ViewController.swift in Sources */,
 				A267B86E29FD162100B6FC1D /* PraceticeTabBarTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -276,8 +460,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A267B88A29FD181E00B6FC1D /* Test1ViewController.swift in Sources */,
+				A267B88E29FD182500B6FC1D /* Test2ViewController.swift in Sources */,
 				A267B87829FD162100B6FC1D /* PraceticeTabBarUITests.swift in Sources */,
+				A267B89229FD182900B6FC1D /* Test3ViewController.swift in Sources */,
 				A267B87A29FD162100B6FC1D /* PraceticeTabBarUITestsLaunchTests.swift in Sources */,
+				A267B89629FD182D00B6FC1D /* Test4ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -432,6 +620,7 @@
 		};
 		A267B87E29FD162100B6FC1D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 728A586BFC4092A1C2D1B9E1 /* Pods-PraceticeTabBar.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -460,6 +649,7 @@
 		};
 		A267B87F29FD162100B6FC1D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6BCD98E35F9DCE09479F5FAB /* Pods-PraceticeTabBar.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -488,6 +678,7 @@
 		};
 		A267B88129FD162100B6FC1D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FE5D49E3ABB2221703E34A4A /* Pods-PraceticeTabBarTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -508,6 +699,7 @@
 		};
 		A267B88229FD162100B6FC1D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0C29F0684D5AD5212EC4EA1F /* Pods-PraceticeTabBarTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -528,6 +720,7 @@
 		};
 		A267B88429FD162100B6FC1D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 93653C2F9A401E89EAD346A8 /* Pods-PraceticeTabBar-PraceticeTabBarUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -546,6 +739,7 @@
 		};
 		A267B88529FD162100B6FC1D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0E7EC0B84E3310EB27475C88 /* Pods-PraceticeTabBar-PraceticeTabBarUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
